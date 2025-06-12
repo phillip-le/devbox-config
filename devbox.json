@@ -16,7 +16,8 @@
     "tree@latest",
     "lazygit@latest",
     "ssm-session-manager-plugin@latest",
-    "difftastic@latest"
+    "difftastic@latest",
+    "eza@latest"
   ],
   "shell": {
     "init_hook": [
